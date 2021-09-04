@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Furkan Salık
 - 👀 I’m interested in Game Development, Graphics Programming, OpenGL, C++.
-- 🌱 I’m currently learning Unreal Engine, OpenGL, Graphics Programming.
+- 🌱 I’m currently learning Unreal Engine, Graphics Programming, OpenGL.
 - 💞️ I’m looking to collaborate on low level projects.
 - 📫 How to reach me: From linkedin and fsalik25@outlook.com
 
