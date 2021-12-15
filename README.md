@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan Salık</h1>
-<h3 align="center">Computer Engineering Student at Istanbul Technical University</h3>
+<h3 align="center">Computer engineering student at Istanbul Technical University</h3>
 <h3 align="center">Mainly a desktop developer who focuses on C++</h3>
 <hr>
 
