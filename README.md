@@ -3,7 +3,7 @@
 <h3 align="center">Mainly a desktop developer who focuses on C++</h3>
 <hr>
 
-- 🌱 I’m currently learning **software design, computer graphics and node.js**
+- 🌱 I’m currently learning **node.js**
 
 - 💬 Ask me about: **C/C++, C#, Unity, Unreal Engine**
 
