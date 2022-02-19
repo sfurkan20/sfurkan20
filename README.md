@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan Salık</h1>
 <h3 align="center">Computer engineering student at Istanbul Technical University</h3>
-<h3 align="center">Mainly a desktop developer who focuses on C++</h3>
+<h3 align="center">Improving himself in back-end development</h3>
 <hr>
 
 - 🌱 I’m currently learning **node.js**
