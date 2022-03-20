@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Furkan Salık</h1>
 <h3 align="center">Computer engineering student at Istanbul Technical University</h3>
-<h3 align="center">Improving himself in back-end development</h3>
 <hr>
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about: **C/C++, C#, Unity, Unreal Engine**
 
