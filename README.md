@@ -2,7 +2,7 @@
 <h3 align="center">Computer engineering student at Istanbul Technical University</h3>
 <hr>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **DevOps engineering**
 
 - 💬 Ask me about: **C/C++, C#, Unity, Unreal Engine**
 
